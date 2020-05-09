@@ -1,6 +1,14 @@
 # XML Data Parser
 ### A simple XML parser that converts an xml file to json
 
+#### Get Started
+- First run  `bundle`
+- To run the app `ruby main.rb`
+- To run the tests `rspec --format documentation`
+
+### Libraires used
+- [Active Support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support)
+
 #### Input 
 ```xml
 <InvioPostale unique_id="9932" office="Poste Piazza Mazzini Roma">
